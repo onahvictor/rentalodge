@@ -4,7 +4,7 @@ RentALodge is a website where users can create and review Student Lodges. In ord
 
 # Features
 
-- Users can create, edit, and remove campgrounds
+- Users can create, edit, and remove lodges
 - Users can review Lodges once, and edit or remove their own review
 - User profiles include more information on the user (full name, email, phone, join date), their Lodges, and the option to edit their profile or delete their account
 - Search Lodges by name or location
